@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ciscospark": "^1.50.6"
+    "ciscospark": "^1.50.6",
+    "webex": "^1.79.0"
   },
   "devDependencies": {
     "browserify": "^16.2.3"
