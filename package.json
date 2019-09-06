@@ -1,7 +1,7 @@
 {
   "name": "sample-browser-single-party-call",
   "version": "1.0.0",
-  "description": "",
+  "description": "web app based on node.js as agent to make one -on -one calling",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,16 @@
     "webex": "^1.79.0"
   },
   "devDependencies": {
-    "browserify": "^16.2.3"
-  }
+    "browserify": "^16.2.3",
+    "parcel-bundler": "^1.12.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbahsaptojr/webex-team-single-party.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mbahsaptojr/webex-team-single-party/issues"
+  },
+  "homepage": "https://github.com/mbahsaptojr/webex-team-single-party#readme"
 }
